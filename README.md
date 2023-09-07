@@ -1,6 +1,5 @@
 - 👋 Hi, I’m 373Kice
-- 👀 I’m interested in MGI, ML ...
+- 👀 I’m interested in Materiasl Data
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ...
 - 📫 ymj155@gmail.com
-
+- 
